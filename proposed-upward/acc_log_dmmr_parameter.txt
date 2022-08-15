@@ -1,0 +1,24 @@
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E345 
+dctr_j_uniward-0.10-jpeg-Q65: 0.6243
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E345 
+dctr_j_uniward-0.10-jpeg-Q65: 0.6510
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E45 
+dctr_j_uniward-0.10-jpeg-Q65: 0.6751
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E456 
+dctr_j_uniward-0.10-jpeg-Q65: 0.6729
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E4567 
+dctr_j_uniward-0.10-jpeg-Q65: 0.6829
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E45678 
+dctr_j_uniward-0.10-jpeg-Q65: 0.7205
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E56 
+dctr_j_uniward-0.10-jpeg-Q65: 0.7650
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E567 
+dctr_j_uniward-0.10-jpeg-Q65: 0.7606
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E5678 
+dctr_j_uniward-0.10-jpeg-Q65: 0.7986
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E67 
+dctr_j_uniward-0.10-jpeg-Q65: 0.9083
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E678 
+dctr_j_uniward-0.10-jpeg-Q65: 0.9370
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E78 
+dctr_j_uniward-0.10-jpeg-Q65: 0.9953

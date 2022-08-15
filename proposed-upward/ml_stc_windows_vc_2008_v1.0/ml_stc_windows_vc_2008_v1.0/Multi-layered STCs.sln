@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ML_STC +-2 example", "ml_stc_src\example2_ml_stc.vcproj", "{3C25BA63-056C-4E10-9E1C-F92A89C276B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ML_STC +-1 example", "ml_stc_src\example1_ml_stc.vcproj", "{7AEC30C0-1501-4346-8B08-D3EBCBB419C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C25BA63-056C-4E10-9E1C-F92A89C276B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C25BA63-056C-4E10-9E1C-F92A89C276B6}.Debug|Win32.Build.0 = Debug|Win32
+		{3C25BA63-056C-4E10-9E1C-F92A89C276B6}.Release|Win32.ActiveCfg = Release|Win32
+		{3C25BA63-056C-4E10-9E1C-F92A89C276B6}.Release|Win32.Build.0 = Release|Win32
+		{7AEC30C0-1501-4346-8B08-D3EBCBB419C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AEC30C0-1501-4346-8B08-D3EBCBB419C0}.Debug|Win32.Build.0 = Debug|Win32
+		{7AEC30C0-1501-4346-8B08-D3EBCBB419C0}.Release|Win32.ActiveCfg = Release|Win32
+		{7AEC30C0-1501-4346-8B08-D3EBCBB419C0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

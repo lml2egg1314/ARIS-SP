@@ -1,0 +1,96 @@
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E345 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.49908
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.4994
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.49908
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.49921
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.49902
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.49912
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.49909
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E345 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.0051813
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.12985
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.10088
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.087863
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.048976
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.026755
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.017224
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E45 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.0013053
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.062777
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.044262
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.047266
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.018844
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.0098348
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.0047429
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E456 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.0013419
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.072903
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.051059
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.056357
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.019819
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.009677
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.0042755
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E4567 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.0010922
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.066339
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.046378
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.051843
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.0168
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.0078559
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.0033518
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E45678 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.0010607
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.059866
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.041087
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.046882
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.014086
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.0065598
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.0029636
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E56 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.00025405
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.034269
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.022469
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.024023
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.0054682
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.0021907
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.00061349
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E567 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.0002667
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.031935
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.021465
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.022694
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.0045385
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.001815
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.00058302
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E5678 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 0.00026618
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.027436
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.018175
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.019586
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.0035842
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.0014695
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.00049127
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E67 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 2.0683e-05
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.0086812
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.0062008
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.0079377
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.00077066
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.0002424
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 4.3441e-05
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E678 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 9.1219e-05
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.0068997
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.0047227
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.0064009
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 0.0006954
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 0.00025673
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 0.00010342
+/data1/lml/watermarking/BB-cover-resample-256-jpeg-65-dmmr-upward-payload-0.10-use-dcts-E78 
+image_size-256-QF-65-payload: 0.1  ave_error_rate: 3.4955e-06
+image_size-256-QF-70-payload: 0.1  ave_error_rate: 0.00051992
+image_size-256-QF-75-payload: 0.1  ave_error_rate: 0.00060162
+image_size-256-QF-80-payload: 0.1  ave_error_rate: 0.00076543
+image_size-256-QF-85-payload: 0.1  ave_error_rate: 2.1371e-05
+image_size-256-QF-90-payload: 0.1  ave_error_rate: 6.1793e-06
+image_size-256-QF-95-payload: 0.1  ave_error_rate: 3.4955e-06

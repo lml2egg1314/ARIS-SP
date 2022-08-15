@@ -1,0 +1,20 @@
+Image_size: 256; QF: 65; Payload: 0.10;      Attack_QF: 9.900000e-01; BER: 0.0000 
+      Attack_QF: 9.500000e-01; BER: 0.0000 
+      Attack_QF: 9.000000e-01; BER: 0.0000 
+      Attack_QF: 8.000000e-01; BER: 0.0000 
+      Attack_QF: 7.000000e-01; BER: 0.0000 
+      Attack_QF: 6.000000e-01; BER: 0.0000 
+      Attack_QF: 5.000000e-01; BER: 0.0000 
+      Attack_QF: 4.000000e-01; BER: 0.0000 
+      Attack_QF: 3.000000e-01; BER: 0.0000 
+      Attack_QF: 2.000000e-01; BER: 0.0000 
+      Attack_QF: 1.000000e-01; BER: 0.0000 
+Image_size: 256; QF: 65; Payload: 0.02;      Advesarial magnitude: 0.70000000; BER: 0.00006791 
+Image_size: 256; QF: 65; Payload: 0.04;      Advesarial magnitude: 0.70000000; BER: 0.00005748 
+Image_size: 256; QF: 65; Payload: 0.06;      Advesarial magnitude: 0.70000000; BER: 0.00000000 
+Image_size: 256; QF: 65; Payload: 0.08;      Advesarial magnitude: 0.70000000; BER: 0.00000019 
+Image_size: 256; QF: 75; Payload: 0.02;      Advesarial magnitude: 0.70000000; BER: 0.00006068 
+Image_size: 256; QF: 75; Payload: 0.04;      Advesarial magnitude: 0.70000000; BER: 0.00002855 
+Image_size: 256; QF: 75; Payload: 0.06;      Advesarial magnitude: 0.70000000; BER: 0.00000021 
+Image_size: 256; QF: 75; Payload: 0.08;      Advesarial magnitude: 0.70000000; BER: 0.00000163 
+Image_size: 256; QF: 75; Payload: 0.10;      Advesarial magnitude: 0.70000000; BER: 0.00000000 
